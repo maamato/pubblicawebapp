@@ -1,1 +1,2 @@
-# pubblicawebapp
+# webregression
+Phyton project webapp
